@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OCCITest">
+</Property><Property Name="Solution File" Value="C:\develop\OCCITest2010\OCCITest.sln">
+</Property><Property Name="User Options File" Value="C:\develop\OCCITest2010\OCCITest.suo">
+</Property><Property Name="Date" Value="lunes, 16 de abril de 2012">
+</Property><Property Name="Time" Value="19:11">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OCCITest.sln" Description="File successfully backed up as C:\develop\OCCITest2010\OCCITest.sln.old">
+</Event><Event ErrorLevel="0" Project="" Source="OCCITest.suo" Description="File successfully backed up as C:\develop\OCCITest2010\OCCITest.suo.old">
+</Event><Event ErrorLevel="0" Project="OCCITest" Source="OCCITest\OCCITest.vcproj" Description="Converting project file 'C:\develop\OCCITest2010\OCCITest\OCCITest.vcproj'.">
+</Event><Event ErrorLevel="1" Project="OCCITest" Source="OCCITest\OCCITest.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="OCCITest" Source="OCCITest\OCCITest.vcproj" Description="Done converting to new project file 'C:\develop\OCCITest2010\OCCITest\OCCITest.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="OCCITest" Source="OCCITest\OCCITest.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="HTMSQL" Source="HTMSQL\HTMSQL.vcproj" Description="Converting project file 'C:\develop\OCCITest2010\HTMSQL\HTMSQL.vcproj'.">
+</Event><Event ErrorLevel="1" Project="HTMSQL" Source="HTMSQL\HTMSQL.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="HTMSQL" Source="HTMSQL\HTMSQL.vcproj" Description="Done converting to new project file 'C:\develop\OCCITest2010\HTMSQL\HTMSQL.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="HTMSQL" Source="HTMSQL\HTMSQL.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OCCITest.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="OCCITest.sln" Description="Converted">
+</Event></UpgradeLog>
